@@ -139,6 +139,9 @@ footer .fa-hands-helping {
   flex-direction: column;
   justify-content: space-between;
 }
+.fonctionnement h2 {
+  padding: 20px;
+}
 .fonctionnement .fonctionnement__etapes {
   padding: 0 25px;
 }
@@ -622,8 +625,8 @@ footer .fa-hands-helping {
 }
 .bloc .bloc__loader {
   position: absolute;
-  right: 50%;
-  top: 50%;
+  left: 25%;
+  top: 40%;
 }
 
 /*# sourceMappingURL=style.css.map */
