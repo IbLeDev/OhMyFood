@@ -26,6 +26,8 @@
   }
   100% {
     opacity: 0;
+    height: 0px;
+    width: 0px;
   }
 }
 @keyframes fadein {
