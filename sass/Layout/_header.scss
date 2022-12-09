@@ -1,3 +1,11 @@
-.main__header h1 {
-  text-align: center;
+.main__header {
+
+  display: flex;
+  align-items: center;
+  padding: 20px 0;
+
+  img {
+    width: 50%;
+    margin: 0 auto;
+  }
 }
