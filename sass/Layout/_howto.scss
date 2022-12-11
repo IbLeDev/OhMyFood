@@ -26,6 +26,15 @@
       box-shadow: 4px 4px 6px #fff;
       font-weight: bold;
       box-shadow: 4px 4px 6px #e9e9e9;
+
+      &:hover {
+
+        background: #e1e1e1;
+        
+        .fonctionnement--etapes__icon {
+          color: $color-primary;
+        }
+      }
     }
   }
 }
@@ -45,5 +54,5 @@
 }
 
 .fonctionnement--etapes__icon {
-margin-right: 25px;
+  margin-right: 25px;
 }
