@@ -521,6 +521,10 @@ footer .fa-hands-helping {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  padding: 20px 0;
+}
+.menu__header img {
+  width: 200px;
 }
 
 .arrow {
